@@ -1,0 +1,27 @@
+{
+  "name": "node-red-contrib-20170817",
+  "version": "1.0.0",
+  "description": "This is for 2017/8/17 Node-REDのノードをつくるハンズオン",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitazaki/node-red-contrib-20170817.git"
+  },
+  "node-red" : {
+    "nodes": {
+      "kitazaki": "node.js"
+    }
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "author": "kitazaki",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kitazaki/node-red-contrib-20170817/issues"
+  },
+  "homepage": "https://github.com/kitazaki/node-red-contrib-20170817#readme"
+}
